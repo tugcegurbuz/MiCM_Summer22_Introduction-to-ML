@@ -1,1 +1,1 @@
-# MiCM2022_Introduction-to-ML
+# Welcome to MiCM2022-Introduction to ML in Python!
