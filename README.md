@@ -33,3 +33,10 @@ Slides: [Module1D - Regularization](https://github.com/tugcegurbuz/MiCM2022_Intr
 | Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/tutorials/Module1D_Tutorial2.ipynb) |)
 
 ## Module 2: Convolutional Neural Networks
+
+### Module2A - Introduction to Convolutional Neural Networks
+Slides: [Module2A - Introduction to Convolutional Neural Networks](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/slides/Module2A-Intro%20to%20CNNs.pdf)
+
+|   | Run |
+| - | --- |
+| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/tutorials/Module2A_Tutorial1.ipynb) |)
