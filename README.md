@@ -1,7 +1,7 @@
 # Welcome to MiCM2022-Introduction to ML in Python!
 
 ## Module1A - Basics And Pytorch
-Slides: [Intro to workshop logistics]()
+Slides: [Intro to workshop logistics](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/slides/Module1B%20-%20Multi%20Layer%20Perceptrons.pdf)
 
 |   | Run |
 | - | --- |
