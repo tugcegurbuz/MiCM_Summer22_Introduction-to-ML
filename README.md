@@ -5,7 +5,7 @@ Slides: [Intro to workshop logistics]()
 
 |   | Run |
 | - | --- |
-| Tutorial 1 | [![Open In Colab](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/tutorials/Module1A_Tutorial1.ipynb) |)
+| Tutorial 1 | [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/tutorials/Module1B_Tutorial1.ipynb](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/tutorials/Module1A_Tutorial1.ipynb)) |)
 
 
 ## Module1B - Multi Layer Perceptron
