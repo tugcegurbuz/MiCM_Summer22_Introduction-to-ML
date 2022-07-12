@@ -22,7 +22,7 @@ Slides: [Module 1C - Optimization](https://github.com/tugcegurbuz/MiCM2022_Intro
 
 |   | Run |
 | - | --- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/tutorials/Module1C_Tutorial1.ipynb)) |)
+| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/tutorials/Module1C_Tutorial1.ipynb) |)
 
 ### Module1D - Regularization
 Slides: [Module1D - Regularization](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/slides/Module1D-Regularization.pdf)
