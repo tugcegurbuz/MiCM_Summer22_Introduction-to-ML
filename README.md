@@ -40,3 +40,11 @@ Slides: [Module2A - Introduction to Convolutional Neural Networks](https://githu
 |   | Run |
 | - | --- |
 | Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/tutorials/Module2A_Tutorial1.ipynb) |)
+
+### Module2B - Modern Convolutional Neural Networks
+Slides: [Module2B - Modern Convolutional Neural Networks](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/slides/Module2B-Modern%20CNNs.pdf)
+
+|   | Run |
+| - | --- |
+| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/tutorials/Module2B_Tutorial1.ipynb) |)
+| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/tutorials/Module2B_Tutorial1.ipynb) |)
