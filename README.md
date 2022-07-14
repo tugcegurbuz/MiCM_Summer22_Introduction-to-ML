@@ -11,8 +11,8 @@ Slides: [Intro to workshop logistics](https://github.com/tugcegurbuz/MiCM2022_In
 
 
 ### Module1B - Multi Layer Perceptron
-* *Classify hand-written digit images with MLP *
-Slides: [Module 1B - Multi Layer Perceptron](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/slides/Module1B%20-%20Multi%20Layer%20Perceptrons.pdf)
+* *Classify hand-written digit images with MLP*
+* Slides: [Module 1B - Multi Layer Perceptron](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/slides/Module1B%20-%20Multi%20Layer%20Perceptrons.pdf)
 
 |   | Run |
 | - | --- |
