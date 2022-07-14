@@ -1,9 +1,15 @@
 # Welcome to MiCM2022-Introduction to ML in Python!
 
+Workshop Schedule (July 14th and 15th):
+* **1.00 - 1.50 pm -> ML Time!** (Break: 1.50 - 2.00 pm)
+* **2.00 - 2.50 pm -> ML Time!** (Break: 2.50 - 3.00 pm)
+* **3.00 - 3.50 pm -> ML Time!**
+
 ## Module 1:Machine Learning Basics
 
 ### Module1A - Basics And Pytorch
-Slides: [Intro to workshop logistics](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/slides/Intro%20to%20workshop%20logistics.pdf)
+* Slides: [Intro to workshop logistics](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/slides/Intro%20to%20workshop%20logistics.pdf)
+* *Learn state of art ML library*
 
 |   | Run |
 | - | --- |
