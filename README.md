@@ -3,7 +3,8 @@
 Workshop Schedule (July 14th and 15th):
 * **1.00 - 1.50 pm -> ML Time!** (Break: 1.50 - 2.00 pm)
 * **2.00 - 2.50 pm -> ML Time!** (Break: 2.50 - 3.00 pm)
-* **3.00 - 3.50 pm -> ML Time!**
+* **3.00 - 3.50 pm -> ML Time!** 
+* **3.50 - 4.00 pm -> Closing discussions**
 
 ## Module 1:Machine Learning Basics
 
