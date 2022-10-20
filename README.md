@@ -9,7 +9,6 @@ Workshop Schedule (July 14th and 15th):
 ## Module 1:Machine Learning Basics
 
 ### Module1A - Basics And Pytorch
-* Slides: [Intro to workshop logistics](https://github.com/tugcegurbuz/MiCM2022_Introduction-to-ML/blob/main/slides/Intro%20to%20workshop%20logistics.pdf)
 * *Learn state of art ML library*
 
 |   | Run |
